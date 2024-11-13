@@ -1,4 +1,3 @@
-
 # Mood-Based Playlist Generator 🎶
 Welcome to the Mood-Based Playlist Generator App! This web application helps you discover and curate playlists that match your mood. Built with HTML, CSS, and JavaScript,
 it provides an intuitive and engaging way to explore music that resonates with your current emotional state.
@@ -15,7 +14,6 @@ it provides an intuitive and engaging way to explore music that resonates with y
 - JavaScript: For dynamic interactions and playlist generation logic.
 
 ## 📂 Folder Structure
-.
 - ├── index.html         # Main HTML file
 - ├── styles.css         # CSS file for styling
 - ├── script.js          # JavaScript file for app logic
@@ -37,7 +35,7 @@ Contributions are welcome! If you'd like to enhance this app or fix issues, feel
 If you have any questions or feedback, feel free to reach out:
 Email: anandkirar27@gmail.com
 
-## 📜 License
+### 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Thank you for checking out the Mood-Based Playlist Generator App! Enjoy discovering new music! 🎧✨
