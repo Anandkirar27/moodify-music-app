@@ -35,7 +35,4 @@ Contributions are welcome! If you'd like to enhance this app or fix issues, feel
 If you have any questions or feedback, feel free to reach out:
 Email: anandkirar27@gmail.com
 
-### 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-# Thank you for checking out the Mood-Based Playlist Generator App! Enjoy discovering new music! 🎧✨
+## Thank you for checking out the Mood-Based Playlist Generator App! Enjoy discovering new music! 🎧✨
